@@ -1,4 +1,6 @@
-#BitBot is a free and open-source Discord bot!
+
+BitBot is a free and open-source Discord bot
+
 
 # Setting it up:
 
