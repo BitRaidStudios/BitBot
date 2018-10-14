@@ -1,0 +1,31 @@
+{
+    "token":"",
+    "prefix":"",
+    "embedCol":"0xffffff",
+    "ignoreNonCommands":true,
+    "muteRoleName":"",
+    "immuneRoleNames":[],
+    "messageFilter": {
+        "caseSensitive":true,
+        "channels":[
+            {"channel": "*", "whitelist": [], "blacklist": []}
+        ]
+    },
+    "lockedCommands":[
+        {"name":"", "channels":[]}
+    ],
+    "permissions": {
+    "permissionGroups": [
+            {"roles":[""], "commands":[""]}
+        ]
+    },
+    "roles": {
+	"enforceDefaultRoles":false,
+        "mutuallyExclusiveRoles":false,
+        "assignableRoles": [],
+        "defaultRoles": [],
+        "roles":[
+            {"id":0,"name":""}
+        ]
+    }
+}
